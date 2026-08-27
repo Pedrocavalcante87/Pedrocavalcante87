@@ -1,90 +1,70 @@
 # 👋 Hi, I'm Pedro Cavalcante
 
-💻 **Computer Science student at UNIFBV (graduation in 2027)**  
-🚀 **Backend Developer focused on building scalable systems and APIs**
+🎓 Computer Science student at **UNIFAVIP**, Recife/Brazil — graduating Dec/2027
+🔨 Full-stack developer in training — production experience on the front-end, and deep back-end fundamentals in **C# / .NET**
 
-I work with backend development, system architecture, and performance-oriented applications.  
-Currently developing a **Fleet Management SaaS** and building real-world systems to improve my engineering skills.
-
----
-
-# 🧠 About Me
-
-- 💼 Backend developer and freelance system builder  
-- 🚀 Founder of a **Fleet Management SaaS** focused on operational monitoring and automation  
-- 🔧 Experience with **REST APIs, monitoring systems, and backend services**
-- 📊 Interested in **Data Engineering, Artificial Intelligence, and scalable architectures**
-- 🎵 Independent music artist blending **technology and creativity**
-
-My GitHub is a space where I publish **experiments, real projects, and backend solutions**.
+I currently work as a developer at **Linkup³**, a startup building a real-time integrations monitoring platform, where I focus mostly on the **React front-end**. In parallel, I completed an intensive **.NET Bootcamp with Deloitte** (in partnership with Porto Digital), where I built back-end systems applying Clean Architecture, async processing, and automated testing.
 
 ---
 
-# ⚙️ Tech Stack
+### 🧠 About Me
 
-### Backend
-- Node.js
-- Python
-- C# / .NET
-- REST API development
-- Microservices concepts
-
-### Frontend
-- React
-- Next.js
-- HTML
-- CSS
-- Tailwind
-
-### Databases
-- PostgreSQL
-- MongoDB
-
-### DevOps & Infrastructure
-- Docker
-- API monitoring
-- Logging systems
-- Performance optimization
+- 💼 Developer at **Linkup³**, building the front-end of a live SaaS product
+- 🎓 Completed Deloitte's **.NET Bootcamp** — 64h, in partnership with Porto Digital (Jan–Feb 2026)
+- 🏗️ Back-end projects built around Clean Architecture, resilience patterns, and automated testing
+- 📈 Studying toward backend + cloud specialization (Python, AWS) as the next phase of my career
+- 🇧🇷 → 🌍 Long-term goal: working with international engineering teams
 
 ---
 
-# 🚀 Current Projects
+### ⚙️ Tech Stack
 
-### Fleet Management SaaS
-A system focused on monitoring operational processes and managing fleet data.
+**Front-end**
 
-Main concepts used:
-- API monitoring
-- database monitoring
-- operational scripts and automation
-- performance optimization
-- logging and observability
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
----
+**Back-end**
 
-# 📚 Currently Learning
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 
-- Fullstack development with **React + Node.js**
-- **System design and scalable architectures**
-- **Data Science and Artificial Intelligence**
-- Advanced backend engineering
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Tools & Practices**
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) `JWT / RBAC` · `xUnit` · `Testcontainers` · `Clean Architecture`
 
 ---
 
-# 📌 Goals
+### 🚀 Featured Projects
 
-- Build scalable software systems  
-- Work with **international engineering teams**  
-- Specialize in **backend engineering and distributed systems**
+**[MinaOps](https://github.com/Pedrocavalcante87/MinaOps)** — Heavy Equipment Monitoring API
+Final challenge of Deloitte's .NET Bootcamp. A REST API for managing a mining equipment fleet (trucks, excavators, drills), built with **Clean Architecture** across 4 layers.
+`ASP.NET Core Minimal APIs` `EF Core` `PostgreSQL` `Docker` `Swagger/OpenAPI`
+
+**[Gestão de Lotes de Minério](https://github.com/Pedrocavalcante87/Deloitte-bootcamp)** — Async Processing & Resilience
+Advanced bootcamp project focused on distributed-systems patterns: **Redis Streams** for async processing, distributed caching, and a **Dead Letter Queue** for failure handling — with full integration test coverage.
+`.NET 10` `Redis Streams` `EF Core` `xUnit` `Testcontainers`
+
+**[Linkup³](https://github.com/Pedrocavalcante87/Linkup3)** — Real-Time Integrations Monitoring Platform
+Startup MVP I actively work on — dashboards with live KPIs, automated ticket alerts, an if-then automation engine, and role-based access control.
+`React` `Vite` `Node.js` `Express` `Prisma` `JWT/RBAC`
 
 ---
 
-# 📬 Contact
+### 📚 Building Toward
 
-📧 **Email:** workpedro87@gmail.com  
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/pedro-cavalcante-81a108204
+- Python & backend engineering for cloud-native systems
+- AWS fundamentals and cloud architecture
+- System design for distributed, resilient services
 
 ---
 
-⭐ Portfolio in constant evolution — here you'll find studies, experiments, and real-world software projects.
+### 📬 Contact
+
+📧 [workpedro87@gmail.com](mailto:workpedro87@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/pedro-cavalcante-81a108204)
+
+---
+
+*Portfolio in progress — real projects, real learning, one system at a time.*
